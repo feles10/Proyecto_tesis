@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Renderizar_Nombre.unity
+  isLoaded: 1
+  isActive: 1

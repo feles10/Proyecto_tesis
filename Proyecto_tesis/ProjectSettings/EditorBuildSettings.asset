@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main_Menu.unity
+    guid: 7251fe357a0571d4aacef88a8b3153ff
+  - enabled: 1
+    path: Assets/Renderizar_Coordenadas.unity
+    guid: 1def8f4922dec2641b4b4e4a19e9bf30
+  - enabled: 1
+    path: Assets/Renderizar_MapaC.unity
+    guid: 2e7c3af040fac684188924153679b6f5
+  - enabled: 1
+    path: Assets/Renderizar_Nombre.unity
+    guid: 41edd3ce480a2d2418d22e8229e5c19a
